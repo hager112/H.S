@@ -10,4 +10,15 @@ Beskriv skillnaden mellan vattenfallsmodellen och agil metodik. När bör man an
 - Och fullständig dokumentation.
 - Agil metodik däremot bör tilllämpas i dynamiska och komplexa projekt där kontinuerlig iterering och användarcenterad feedback möjliggör adaptiv  utveckling och
 - optimerad produktkvalitet. 
-- 
+
+Vad är ett Git-commit och varför är det viktigt?
+Beskriv ett verkligt scenario där Git hjälper dig undvika problem.
+- Tänk att du bygger ett Lego slott, varje gång du gör något nytt, som lägger till ett torn eller en dörr, kan du ta ett foto av slotet. Ett Git-commit är som det fotot dvs de sparar exakt hur ditt projekt ser ut just nu.
+- Du kan titta tillbaka på alla "foton" om du vill se vad du gjorde tidigare. Om du råkar riva bort tornet av misstag kan du gå tillbaka ett tidigare foto och bygga igen. Det är viktigt eftersom det gör att du aldrig förlorar ditt arbete kan du se vad som ändrats. Ett exempel är att du bygger lego tillsammans med din kompis, du bygger ett torn och din kompis byger en mur. Du råkar välta tornet.
+- Utan Git du måste försöka minnas exakt hur tornet såg ut och bygga om det. Med Git blir de mycket enklare för att du tittar på ert "foto" från tidigare och bara återställer tornet. Allt fungerar igen.
+- Om du vill prova en helt ny ide som ett flygande torn utan att förstöra de som redan finns, en branch är som att ta ditt stora lego slott och göra en kopia på sidan där kan du bygga fritt.
+- För mig är är ett Git commit som att ta en snapshot av projektet just där och då. Det sparar alla ändringar jag gjort i filerna och jag kan skriva varför jag gjorde dem vilket gör det lättare att hålla koll på projektet. Jag gillar verkligen det här med commits eftersom de ger både struktur och trygghet.
+- Jag kan testa saker utan att vara rädd för att förstöra något och varje commit känns som ett konkret bevis på att jag faktiskt gjorde framsteg.
+- Min faster har varit med om projekt där flera i teamet jobbar på samma kod samtidigt. Utan git hade vi lätt kunnat skriva över varandras ändringar och förlora tid och arbete. Med Git kan vi göra commits i egna brancher, testa våra ändringar och sedan slå ihop allt på ett säkert sätt.
+- För mig handlar Git inte bara om teknik utan också om att göra samarbetet smidigare, minska stressen och kunna utveckla projektet steg för steg utan att oroa sig för att något går fel. 
+  
