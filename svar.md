@@ -1,0 +1,13 @@
+Beskriv skillnaden mellan vattenfallsmodellen och agil metodik. När bör man använda vilken, och varför?
+- Waterfall är ett arbetssätt där projektet genomförs steg för steg: först plaering, sedan desig, därefter utveckling, tesning och slutligen lansering.
+- Fördelen med denna metod är att processen är tydlig, strukterad och väl dokumenterad, man vet exakt vad som ska göras i varje fas. Nackedelen är att de blir svårt och
+- kostsamt att göra ändringar om nya krav eller problem uppstår sent i processen. Desutom ser man inte det färdigaa resultatet förrän projetet är helt klart.
+- Agile är ett mer flexibelt och modernt arbetssätt. Här planerar man endast det mest centrala i början och utvecklar systemet i mindre delar, så kallade sprintar.
+- Varje sprint innebär att man bygger, testar ochh förbättrar produktionen kontinuerligt. Fördelen är att man anpassa sig snabbt efter användarnas behov, upptäcka problem tidigt
+- och hela tiden vidare utvecklasystemet. Nackdelen är att ibland kan det vara svårt att få en tydlig bild av slutresultatet redan från start, samt att det kräver mycket
+- kommunaktion och samarbete inom temaet.
+- Jag vill bara tillägga att vattenfallsmetodiken är lämplig när projekts krav är stabila och väl definerade eftersom den sekventiella strukturen säkerställer rigorös planering
+- Och fullständig dokumentation.
+- Agil metodik däremot bör tilllämpas i dynamiska och komplexa projekt där kontinuerlig iterering och användarcenterad feedback möjliggör adaptiv  utveckling och
+- optimerad produktkvalitet. 
+- 
